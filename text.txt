@@ -1,0 +1,18 @@
+Offline steps and commands:
+1)Initialization using command:
+   git init 
+2) configure git using commands:
+a) git config --global user.name "username"
+b) git config --global user.email "user_email"
+3) To check the status ttype the command
+   git status
+4) Add the file in git usiing
+   git add filename
+   You can also use . instead of filename to include all the files of the repository.
+5) Now commit the changes using:
+   git commit -m "Message"
+   The messageshould be meaaningful.
+
+Online steps and commands:
+1) git remote add origin "Location". This is used for connection.
+2) git push -u origin master. This command is used to push the file from offline to online.
