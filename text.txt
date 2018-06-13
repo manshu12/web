@@ -11,7 +11,7 @@ b) git config --global user.email "user_email"
    You can also use . instead of filename to include all the files of the repository.
 5) Now commit the changes using:
    git commit -m "Message"
-   The messageshould be meaaningful.
+   The message should be meaaningful.
 
 Online steps and commands:
 1) git remote add origin "Location". This is used for connection.
